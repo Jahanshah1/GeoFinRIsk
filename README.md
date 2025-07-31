@@ -2,15 +2,13 @@
 GeoFinRisk visualizes and analyzes financial and economic risk across any geographic location instantly.
 <br>
 <img width="1470" height="831" alt="Screenshot 2025-07-31 at 2 35 17 PM" src="https://github.com/user-attachments/assets/14256cf2-d0eb-4a13-8bdf-36b07c6f7452" />
-📍 Drop a pin, and get a complete risk intelligence breakdown for that area.
+📍 Drop a pin, and get a complete risk intelligence breakdown for that area.<br>
 
-<br>
-<br>
+
 ## Purpose 
-To give ***investors***, ***businesses***, and ***institutions*** actionable location-based risk intelligence using map-based visualization and AI-assisted insights so they can invest, expand, or operate with data-backed confidence.
+To give ***investors***, ***businesses***, and ***institutions*** actionable location-based risk intelligence using map-based visualization and AI-assisted insights so they can invest, expand, or operate with data-backed confidence.<br>
 
-<br>
-<br>
+
 ## The problem it solves 
 Most market, financial, or infrastructure decisions are made based on broad data or intuition, not location-specific analysis. Tools like property websites or generic dashboards lack:
 - Pin-point financial metrics (like credit risk or fraud exposure)
