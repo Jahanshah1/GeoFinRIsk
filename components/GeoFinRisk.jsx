@@ -472,7 +472,8 @@ const GeoFinRisk = () => {
 
     if (!window.google) {
       const script = document.createElement('script');
-      script.src = `https://maps.googleapis.com/maps/api/js?key=AIzaSyD8cXDLrlwYLcdM8Nx-9P2fegPYQBN13Cs&libraries=visualization`;
+      const apiKey = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY;
+      script.src = `https://maps.googleapis.com/maps/api/js?key=${apiKey}&libraries=visualization`;
       script.onload = () => {
         console.log('Google Maps script loaded');
         initMap();
