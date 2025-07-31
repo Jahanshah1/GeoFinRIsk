@@ -6,7 +6,7 @@ GeoFinRisk visualizes and analyzes financial and economic risk across any geogra
 
 
 ## Purpose 
-To give ***investors***, ***businesses***, and ***institutions*** actionable location-based risk intelligence using map-based visualization and AI-assisted insights so they can invest, expand, or operate with data-backed confidence.<br>
+To give ***investors***, ***businesses***, and ***institutions*** actionable location-based risk intelligence using map-based visualization and AI-assisted insights so they can invest, expand, or operate with data-backed confidence.<br><br>
 
 
 ## The problem it solves 
